@@ -1,0 +1,13 @@
+tweepy
+pandas
+nltk
+textblob
+gensim
+spacy
+geopandas
+matplotlib
+plotly
+flask
+sqlalchemy
+dash
+pyLDAvis

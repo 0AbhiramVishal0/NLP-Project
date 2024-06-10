@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emergency Crisis Coordination</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Emergency Crisis Coordination Analytics</h1>
+    <div>
+        {{ tables[0] | safe }}
+    </div>
+</body>
+</html>
