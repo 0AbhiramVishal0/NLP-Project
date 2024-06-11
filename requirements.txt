@@ -13,4 +13,4 @@ geopy
 transformers
 torch
 kaleido
-
+flask_bootstrap
