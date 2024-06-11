@@ -264,6 +264,11 @@ docker build -t abhiramvishal/emergency_crisis_coordination .
 docker run -p 5000:5000 abhiramvishal/emergency_crisis_coordination
 ```
 
+### Pulling Docker Container
+```bash
+docker pull abhiramvishal/emergency_crisis_coordination
+```
+
 ## Project Evaluation
 
 ### Sentiment Analysis
