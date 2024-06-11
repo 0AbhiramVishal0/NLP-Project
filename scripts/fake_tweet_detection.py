@@ -4,7 +4,7 @@ from transformers import pipeline
 # Load the cleaned dataset
 df = pd.read_csv('data/cleaned_australia_tweets.csv')
 
-# Define emergency-related keywords (for demonstration purposes)
+# Define emergency-related keywords
 emergency_keywords = ['flood', 'fire', 'cyclone', 'earthquake', 'storm']
 
 # Use a pre-trained transformer model for text classification

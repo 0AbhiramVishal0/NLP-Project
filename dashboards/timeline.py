@@ -4,7 +4,7 @@ import plotly.express as px
 # Load the data
 df = pd.read_csv('data/nlp_australia_tweets.csv')
 
-# Create a pseudo-date column (for demonstration purposes)
+# Create a pseudo-date column
 df['PseudoDate'] = pd.to_datetime(df['DateTime'])
 
 # Time Series Analysis with Plotly
