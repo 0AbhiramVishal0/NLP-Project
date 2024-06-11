@@ -1,17 +1,21 @@
 import pandas as pd
-from textblob import TextBlob
+from transformers import pipeline
 from gensim import corpora, models
 import spacy
 
 # Load the cleaned dataset
 df = pd.read_csv('data/cleaned_australia_tweets.csv')
 
-# Sentiment Analysis
-def get_sentiment(text):
-    analysis = TextBlob(text)
-    return analysis.sentiment.polarity
+# Sentiment Analysis using BERT
+classifier = pipeline('sentiment-analysis')
 
-df['Sentiment'] = df['Cleaned_Tweet'].apply(get_sentiment)
+def get_bert_sentiment(text):
+    result = classifier(text)[0]
+    sentiment = result['label']
+    score = result['score']
+    return sentiment, score
+
+df[['Sentiment', 'Sentiment_Score']] = df['Cleaned_Tweet'].apply(lambda x: pd.Series(get_bert_sentiment(x)))
 
 # Topic Modeling using LDA
 texts = [tweet.split() for tweet in df['Cleaned_Tweet']]

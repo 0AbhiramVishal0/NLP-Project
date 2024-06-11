@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Emergency Crisis Coordination Analytics</title>
+    <title>Fake Tweets - Emergency Crisis Coordination Analytics</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>Emergency Crisis Coordination Analytics</h1>
+    <h1>Fake Tweets</h1>
     <nav>
         <ul>
             <li><a href="{{ url_for('index') }}">Home</a></li>
@@ -15,16 +15,10 @@
         </ul>
     </nav>
     <div>
-        <h2>All Tweets</h2>
+        <h2>Fake Tweets</h2>
         {% for table in tables %}
             {{ table | safe }}
         {% endfor %}
-    </div>
-    <div>
-        <h2>Visualizations</h2>
-        <img src="{{ url_for('custom_static', filename='time_series_analysis.png') }}" alt="Time Series Analysis">
-        <img src="{{ url_for('custom_static', filename='sentiment_distribution.png') }}" alt="Sentiment Distribution">
-        <img src="{{ url_for('custom_static', filename='geographical_distribution.png') }}" alt="Geographical Distribution">
     </div>
 </body>
 </html>

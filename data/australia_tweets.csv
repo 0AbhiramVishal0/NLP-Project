@@ -1,69 +1,1117 @@
-id,keyword,location,text,target
-105,accident,Australia,BigRigRadio Live Accident Awareness,1
-623,arsonist,"Adelaide, South Australia",Arsonists being blamed for a blaze at a plastics recycling business in Adelaide | @pcaldicott7 reports. #7NewsAdl http://t.co/r1Xwdnvb0g,0
+id,keyword,location,text,target,DateTime
+105,accident,Australia,BigRigRadio Live Accident Awareness,1,2016-05-15 09:46:00
+623,arsonist,"Adelaide, South Australia",Arsonists being blamed for a blaze at a plastics recycling business in Adelaide | @pcaldicott7 reports. #7NewsAdl http://t.co/r1Xwdnvb0g,0,2020-01-17 03:10:00
 826,battle,Australia,"#LonePine remembered around Australia as 'descendants' grow via @666canberra #Gallipoli #WW1
-http://t.co/T4fvVnRPc5 http://t.co/0zZnbVFUVO",0
-945,blaze,Australia,Property losses from California wildfire nearly double as week-old blaze rages http://t.co/E0UUsnpsq5,1
-1303,bloody,"Adelaide, South Australia",@MrTophyPup it's bloody sexy *drools*,0
-1545,bomb,Australia,New Documents Found Pointing To Japan's WWII Atomic Bomb Program http://t.co/IucPcSfbMT,1
-1636,bombing,"Sydney, Australia",Today marks the 70th anniversary of the bombing of Hiroshima a city I visited and was humbled by in November 2013 http://t.co/AcC1z5Q9Zw,1
-1723,buildings%20burning,"Mackay, QLD, Australia",Mmmmmm I'm burning.... I'm burning buildings I'm building.... Oooooohhhh oooh ooh...,1
-1799,buildings%20on%20fire,Brisbane Australia,Fire hazard associated with installation of non-compliant external cladding on high-rise buildings - Insurance - Aust http://t.co/wFsEaOBATo,0
-1914,burning,Australian Capital Territory,#?x?: :and to counter acts such as the burning of the Alexandrian library.,1
-1922,burning%20buildings,"Mackay, QLD, Australia",Mmmmmm I'm burning.... I'm burning buildings I'm building.... Oooooohhhh oooh ooh...,0
-1985,bush%20fires,Melbourne Australia,The Public Health Team was traumatised after the bush fires. Could #AppreciativeInquiry turn this around? http://t.co/soEa1GgbKj,1
-1989,bush%20fires,"Canberra, Australian Capital Territory",Californian Bush Fires 2015 http://t.co/rjdX29wosp,1
-2000,bush%20fires,"Sydney, Australia",SMH photographer Wolter Peeters was on the front line with NSW Rural Fire Service crews laÛ_ http://t.co/gXe7nHwZ3e http://t.co/sRbqlMuwbV,1
+http://t.co/T4fvVnRPc5 http://t.co/0zZnbVFUVO",0,2022-05-28 22:21:00
+945,blaze,Australia,Property losses from California wildfire nearly double as week-old blaze rages http://t.co/E0UUsnpsq5,1,2018-10-14 12:18:00
+1303,bloody,"Adelaide, South Australia",@MrTophyPup it's bloody sexy *drools*,0,2017-10-04 12:43:00
+1545,bomb,Australia,New Documents Found Pointing To Japan's WWII Atomic Bomb Program http://t.co/IucPcSfbMT,1,2018-06-13 16:09:00
+1636,bombing,"Sydney, Australia",Today marks the 70th anniversary of the bombing of Hiroshima a city I visited and was humbled by in November 2013 http://t.co/AcC1z5Q9Zw,1,2018-01-12 20:45:00
+1723,buildings%20burning,"Mackay, QLD, Australia",Mmmmmm I'm burning.... I'm burning buildings I'm building.... Oooooohhhh oooh ooh...,1,2021-08-15 18:45:00
+1799,buildings%20on%20fire,Brisbane Australia,Fire hazard associated with installation of non-compliant external cladding on high-rise buildings - Insurance - Aust http://t.co/wFsEaOBATo,0,2016-11-05 12:59:00
+1914,burning,Australian Capital Territory,#?x?: :and to counter acts such as the burning of the Alexandrian library.,1,2018-06-24 12:35:00
+1922,burning%20buildings,"Mackay, QLD, Australia",Mmmmmm I'm burning.... I'm burning buildings I'm building.... Oooooohhhh oooh ooh...,0,2018-08-04 06:22:00
+1985,bush%20fires,Melbourne Australia,The Public Health Team was traumatised after the bush fires. Could #AppreciativeInquiry turn this around? http://t.co/soEa1GgbKj,1,2018-03-05 20:22:00
+1989,bush%20fires,"Canberra, Australian Capital Territory",Californian Bush Fires 2015 http://t.co/rjdX29wosp,1,2017-08-18 16:21:00
+2000,bush%20fires,"Sydney, Australia",SMH photographer Wolter Peeters was on the front line with NSW Rural Fire Service crews laÛ_ http://t.co/gXe7nHwZ3e http://t.co/sRbqlMuwbV,1,2022-03-14 20:19:00
 2251,chemical%20emergency,"Orbost, Victoria, Australia","Lindenow: 3:15pm
-Emergency crews are at a chemical spill in the main street near Church Street",1
-2289,cliff%20fall,Sydney Australia,News Update Huge cliff landslide on road in China - Watch the moment a cliff collapses as huge chunks of rock fall... http://t.co/gaBd0cjmAG,1
-2399,collapsed,"Perth, Western Australia",@xDescry I was wrong to call it trusty actually.. considering it spontaneously collapsed on me that's not very trusty.,1
+Emergency crews are at a chemical spill in the main street near Church Street",1,2019-01-14 07:44:00
+2289,cliff%20fall,Sydney Australia,News Update Huge cliff landslide on road in China - Watch the moment a cliff collapses as huge chunks of rock fall... http://t.co/gaBd0cjmAG,1,2015-01-26 05:04:00
+2399,collapsed,"Perth, Western Australia",@xDescry I was wrong to call it trusty actually.. considering it spontaneously collapsed on me that's not very trusty.,1,2015-08-17 13:52:00
 2571,crash,"Melbourne, Australia","#INCIDENT
-Crash in Pascoe Vale South outbound on Tullamarine Fwy (CityLink) near Moreland Rd. Vehicles off in emergency lane. No delays.",1
-2579,crash,"  Melbourne, Australia",@DestinyTheGame @Bungie @PlayStation Getting kicked out by that crash is one of the worst experiences I've had playing video games.,0
-2767,curfew,"Adelaide, Australia",INFO S. WND: 030/6. CLD: SCT014 BKN032. EXP INST APCH. RWY 05. CURFEW IN OPER UNTIL 2030 Z. TAXIWAYS FOXTROT 5 &amp; FOXTROT 6 NAVBL. TMP: 10.,0
-2787,curfew,"Adelaide, Australia",INFO R. CURFEW IN OPER UNTIL 2030 Z. TAXIWAYS FOXTROT 5 &amp; FOXTROT 6 NAVBL. WND: 060/5. EXP INST APCH. RWY 05. DAMP. TMP: 10. QNH: 1028.,0
-2792,curfew,"Adelaide, Australia",INFO U. CLD: SCT012 BKN025. EXP INST APCH. RWY 05. CURFEW IN OPER UNTIL 2030 Z. TAXIWAYS FOXTROT 5 &amp; FOXTROT 6 NAVBL. TMP: 10. WND: 030/6.,0
-2896,damage,Australia,Thank you @RicharkKirkArch @AusInstArchitect for words of warning re #QueensWharf #Brisbane http://t.co/jMkYWhv7mP via @FinancialReview,0
-3165,deluge,Australia,WA smiles after July deluge - The West Australian https://t.co/4Yi4nuovbV via @Yahoo7,0
-3845,detonate,"Sydney, Australia",New music from @ApolloBrown featuring M.O.P.? 'Detonate' taken off his album 'Grandeur' coming soon - http://t.co/m1xYkEcRzr,0
-4368,earthquake,"Melbourne, Australia",Nepal earthquake 3 months on: Women fear abuse https://t.co/iCTtZ0Divr via @@loupascale,1
-4534,emergency,"Melbourne, Australia",From @LeanDOTorg: Lean Thinking for Quicker Police Emergency Response Time http://t.co/suZBkyW5TT,0
-4740,evacuate,"Gold Coast, Qld, Australia",myGC: Broken powerlines evacuate Gold Coast tram suspend services http://t.co/6e7hHfeRz4,1
-4785,evacuated,"Queensland, Australia",Passengers evacuated &amp; lanes blocked off as power lines come down over a Gold Coast tram @9NewsGoldCoast http://t.co/zZweEezJuG,1
-4810,evacuated,"Gold Coast, Australia",Tram travellers evacuated after powerlines come down in Surfers http://t.co/Qsheu3yF0W,1
-4826,evacuation,Sydney Australia,Our mission to see the end of this movie last night @markoturner @annaciclismo after getting fire alarm evacuation http://t.co/5kFOVovjso,1
-4845,evacuation,"sydney, australia",my school just put the evacuation alarms on accidently with 2 different trial exams happening are you kidding me,0
-4877,explode,Australia,It's cold and my head wants to explode.. The joys of working from home - I'm going back to bed / peace out ????,0
-4924,exploded,Australia,Junko was 13 years old when the atomic bomb exploded over #Hiroshima on August 6 1945. http://t.co/lSpnyCVoLO http://t.co/Nh5pkFBfqm,1
-5131,fatal,"New South Wales, Australia",Man charged over fatal crash near Dubbo refused bail http://t.co/HDBMfOVUtZ via @dailyliberal,1
-5353,fire,"Sydney, Australia",I just checked in! ÛÒ at On Fire on @ZomatoAUS #LoveFood http://t.co/9l5kqykrbG,1
-5567,flood,"Warrandyte, Australia",A [small] flood with bigåÊconsequences https://t.co/CVPdVHxd1R http://t.co/FDMXP4FcMo,1
-5664,floods,Australia,In #India 119000 people have taken shelter in the 966 relief camps the government has set up after the #floods:   http://t.co/eU8jypIzsd,1
-5670,floods,"Sherwood, Brisbane, Australia",@madonnamking RSPCA site multiple 7 story high rise buildings next to low density character residential in an area that floods,0
-5889,harm," Queensland, Australia",Vanderbilt: First Do No Harm http://t.co/cCdx7CGlQW,0
-5937,hazard,Australia,#Lifestyle Û÷It makes me sickÛª: Baby clothes deemed a Û÷hazardÛª http://t.co/0XrfVidxA2 http://t.co/oIHwgEZDCk,0
-6243,hijacking,"perth, australia ",#hot  Funtenna: hijacking computers to send data as sound waves [Black Hat 2015] http://t.co/gUJNPLJVvt #prebreak #best,0
-6245,hijacking,"brisbane, australia",#hot  Funtenna: hijacking computers to send data as sound waves [Black Hat 2015] http://t.co/s4PNIhJQX7 #prebreak #best,0
-6328,hostage,Australia ,New ISIS Video: ISIS Threatens to Behead Croatian Hostage Within 48 Hours - TLVFaces - TLVFaces#auspol http://t.co/a6PPEgeLOX,1
-6607,inundated,Australia,Kids are inundated with images and information online and in media and have no way to deconstruct. - Kerri Sackville #TMS7,0
-6625,inundated,"UK, Republic of Ireland and Australia",Inundated with employee holiday request paperwork? Our cloud based HR software @hronlinetweets will help simplify your staffing logistics.,0
-6649,landslide,"Melbourne, Australia",@kemal_atlay caught in a landslide,1
-6849,mass%20murder,"Victoria, Australia, Earth",@samanthaturne19 It was... Nagaski another act of mass murder sanctioned and forgiven cause the Allies won... Not by me.,1
-6855,mass%20murder,"Victoria, Australia, Earth",@samanthaturne19 IIt may logically have been the right call... maybe... But it's an act of mass murder and I can't sanction it.,1
-6867,mass%20murder,"Melbourne, Australia",Hiroshima - one of history's worst examples of mass murder  http://t.co/TmogTi6FB4 #hiroshima #war #atombomb #japan,1
-6876,mass%20murder," Queensland, Australia",Urgent! Save the Salt River #WildHorses! Mass murder by the very ppl supposed to protect them?  --&gt; http://t.co/14wH0pJJ2C @CNN @CBC,1
-8031,refugees,Melbourne Australia,Captain Abbott must go down with LNP boat #refugees #christianvalues https://t.co/Kp5dpOaF58,0
-8039,refugees,Australia,Newlyweds feed thousands of Syrian refugees instead of hosting a banquet wedding dinner http://t.co/EGcv7ybjae #Age #news,0
-8057,refugees,QLD Australia,The 46 returned refugees - what were they fleeing from &amp; how will the Vietnamese Govt treat them now they are returned? #Dutton #presser,1
-8250,rioting,Australia,Twitter is doing a count down to the rioting and financial collapse of Brazil #Rio2016 http://t.co/9mtrq5Jf4d,1
-8577,screams,"Melbourne, Australia.",@OllyMursAus I do feel sorry for him! He is not a piece of meat! He is a nice guy... People don't need to rush him and screams in his face!,1
-8837,sirens,Australia,MarketforceÛªs ÛÏCat SharkÛ wins Sirens round two http://t.co/6F9aFQL6WP #radio #news,0
-8908,snowstorm,Australia,@Habbo bring back games from the past. Snowstorm. Tic tac toe. Battleships. Fast food. Matchwood.,1
-9194,suicide%20bombing,Australia,@daisycuttertz @GROGParty @Tony_Burke He's been having lessons in suicide bombing from his imam!,1
-9226,suicide%20bombing,Australia,Erdogan's Bloody Gambit: on July 20 a suicide bombing in Turkey took the lives of 31 socialists in SuruÌ¤ http://t.co/z6xAUIDRXu @Shareaholic,1
-9393,survivors,AUSTRALIA-SOUTHAFRICA-CAMBODIA,The Cafe Run by Acid Attack Survivors in #India http://t.co/qmiF0bLwOa http://t.co/l6PIf3LpEn,1
-9910,trouble,"Gold Coast, Australia",19 Things You'll Understand If You Have Trouble Talking to People http://t.co/sHaZNLMsFE,0
-10157,upheaval,"Perth, Western Australia",@abcnews UK scandal of 2009 caused major upheaval to Parliamentary expenses with subsequent sackings and prison. What are we waiting for?,0
-10208,volcano,"Perth, Australia",Jetstar and Virgin forced to cancel Bali flights again because of ash from Mount Raung volcano http://t.co/jTJoFLtMS4,1
-10496,wildfire,Australia,NowPlaying GT &amp; Wildfire feat. Freaks In Love Feels Like It Should (Original Mix) Massive Dance Radio ListenLive: http://t.co/ANoDGXZR3E,0
+Crash in Pascoe Vale South outbound on Tullamarine Fwy (CityLink) near Moreland Rd. Vehicles off in emergency lane. No delays.",1,2023-10-02 14:17:00
+2579,crash,"  Melbourne, Australia",@DestinyTheGame @Bungie @PlayStation Getting kicked out by that crash is one of the worst experiences I've had playing video games.,0,2018-05-27 15:27:00
+2767,curfew,"Adelaide, Australia",INFO S. WND: 030/6. CLD: SCT014 BKN032. EXP INST APCH. RWY 05. CURFEW IN OPER UNTIL 2030 Z. TAXIWAYS FOXTROT 5 &amp; FOXTROT 6 NAVBL. TMP: 10.,0,2021-11-02 02:22:00
+2787,curfew,"Adelaide, Australia",INFO R. CURFEW IN OPER UNTIL 2030 Z. TAXIWAYS FOXTROT 5 &amp; FOXTROT 6 NAVBL. WND: 060/5. EXP INST APCH. RWY 05. DAMP. TMP: 10. QNH: 1028.,0,2015-11-25 04:16:00
+2792,curfew,"Adelaide, Australia",INFO U. CLD: SCT012 BKN025. EXP INST APCH. RWY 05. CURFEW IN OPER UNTIL 2030 Z. TAXIWAYS FOXTROT 5 &amp; FOXTROT 6 NAVBL. TMP: 10. WND: 030/6.,0,2019-05-03 01:12:00
+2896,damage,Australia,Thank you @RicharkKirkArch @AusInstArchitect for words of warning re #QueensWharf #Brisbane http://t.co/jMkYWhv7mP via @FinancialReview,0,2022-10-23 02:43:00
+3165,deluge,Australia,WA smiles after July deluge - The West Australian https://t.co/4Yi4nuovbV via @Yahoo7,0,2017-11-19 07:11:00
+3845,detonate,"Sydney, Australia",New music from @ApolloBrown featuring M.O.P.? 'Detonate' taken off his album 'Grandeur' coming soon - http://t.co/m1xYkEcRzr,0,2021-06-09 03:43:00
+4368,earthquake,"Melbourne, Australia",Nepal earthquake 3 months on: Women fear abuse https://t.co/iCTtZ0Divr via @@loupascale,1,2019-08-05 17:00:00
+4534,emergency,"Melbourne, Australia",From @LeanDOTorg: Lean Thinking for Quicker Police Emergency Response Time http://t.co/suZBkyW5TT,0,2020-04-05 15:54:00
+4740,evacuate,"Gold Coast, Qld, Australia",myGC: Broken powerlines evacuate Gold Coast tram suspend services http://t.co/6e7hHfeRz4,1,2018-04-08 15:15:00
+4785,evacuated,"Queensland, Australia",Passengers evacuated &amp; lanes blocked off as power lines come down over a Gold Coast tram @9NewsGoldCoast http://t.co/zZweEezJuG,1,2016-10-01 03:48:00
+4810,evacuated,"Gold Coast, Australia",Tram travellers evacuated after powerlines come down in Surfers http://t.co/Qsheu3yF0W,1,2021-02-14 04:46:00
+4826,evacuation,Sydney Australia,Our mission to see the end of this movie last night @markoturner @annaciclismo after getting fire alarm evacuation http://t.co/5kFOVovjso,1,2019-08-19 03:35:00
+4845,evacuation,"sydney, australia",my school just put the evacuation alarms on accidently with 2 different trial exams happening are you kidding me,0,2015-03-18 01:40:00
+4877,explode,Australia,It's cold and my head wants to explode.. The joys of working from home - I'm going back to bed / peace out ????,0,2016-03-06 23:39:00
+4924,exploded,Australia,Junko was 13 years old when the atomic bomb exploded over #Hiroshima on August 6 1945. http://t.co/lSpnyCVoLO http://t.co/Nh5pkFBfqm,1,2019-11-21 14:58:00
+5131,fatal,"New South Wales, Australia",Man charged over fatal crash near Dubbo refused bail http://t.co/HDBMfOVUtZ via @dailyliberal,1,2015-12-17 20:54:00
+5353,fire,"Sydney, Australia",I just checked in! ÛÒ at On Fire on @ZomatoAUS #LoveFood http://t.co/9l5kqykrbG,1,2019-04-03 16:47:00
+5567,flood,"Warrandyte, Australia",A [small] flood with bigåÊconsequences https://t.co/CVPdVHxd1R http://t.co/FDMXP4FcMo,1,2016-12-16 20:30:00
+5664,floods,Australia,In #India 119000 people have taken shelter in the 966 relief camps the government has set up after the #floods:   http://t.co/eU8jypIzsd,1,2015-11-16 23:32:00
+5670,floods,"Sherwood, Brisbane, Australia",@madonnamking RSPCA site multiple 7 story high rise buildings next to low density character residential in an area that floods,0,2022-11-24 03:08:00
+5889,harm," Queensland, Australia",Vanderbilt: First Do No Harm http://t.co/cCdx7CGlQW,0,2023-11-13 18:09:00
+5937,hazard,Australia,#Lifestyle Û÷It makes me sickÛª: Baby clothes deemed a Û÷hazardÛª http://t.co/0XrfVidxA2 http://t.co/oIHwgEZDCk,0,2016-03-07 05:32:00
+6243,hijacking,"perth, australia ",#hot  Funtenna: hijacking computers to send data as sound waves [Black Hat 2015] http://t.co/gUJNPLJVvt #prebreak #best,0,2016-08-09 02:37:00
+6245,hijacking,"brisbane, australia",#hot  Funtenna: hijacking computers to send data as sound waves [Black Hat 2015] http://t.co/s4PNIhJQX7 #prebreak #best,0,2016-12-25 21:42:00
+6328,hostage,Australia ,New ISIS Video: ISIS Threatens to Behead Croatian Hostage Within 48 Hours - TLVFaces - TLVFaces#auspol http://t.co/a6PPEgeLOX,1,2017-08-28 09:12:00
+6607,inundated,Australia,Kids are inundated with images and information online and in media and have no way to deconstruct. - Kerri Sackville #TMS7,0,2017-04-13 15:16:00
+6625,inundated,"UK, Republic of Ireland and Australia",Inundated with employee holiday request paperwork? Our cloud based HR software @hronlinetweets will help simplify your staffing logistics.,0,2020-01-19 13:53:00
+6649,landslide,"Melbourne, Australia",@kemal_atlay caught in a landslide,1,2016-10-01 06:56:00
+6849,mass%20murder,"Victoria, Australia, Earth",@samanthaturne19 It was... Nagaski another act of mass murder sanctioned and forgiven cause the Allies won... Not by me.,1,2017-09-16 15:38:00
+6855,mass%20murder,"Victoria, Australia, Earth",@samanthaturne19 IIt may logically have been the right call... maybe... But it's an act of mass murder and I can't sanction it.,1,2017-05-16 17:54:00
+6867,mass%20murder,"Melbourne, Australia",Hiroshima - one of history's worst examples of mass murder  http://t.co/TmogTi6FB4 #hiroshima #war #atombomb #japan,1,2023-11-26 22:42:00
+6876,mass%20murder," Queensland, Australia",Urgent! Save the Salt River #WildHorses! Mass murder by the very ppl supposed to protect them?  --&gt; http://t.co/14wH0pJJ2C @CNN @CBC,1,2017-03-23 06:22:00
+8031,refugees,Melbourne Australia,Captain Abbott must go down with LNP boat #refugees #christianvalues https://t.co/Kp5dpOaF58,0,2015-12-31 00:10:00
+8039,refugees,Australia,Newlyweds feed thousands of Syrian refugees instead of hosting a banquet wedding dinner http://t.co/EGcv7ybjae #Age #news,0,2021-04-26 07:54:00
+8057,refugees,QLD Australia,The 46 returned refugees - what were they fleeing from &amp; how will the Vietnamese Govt treat them now they are returned? #Dutton #presser,1,2021-02-01 05:34:00
+8250,rioting,Australia,Twitter is doing a count down to the rioting and financial collapse of Brazil #Rio2016 http://t.co/9mtrq5Jf4d,1,2019-01-05 17:00:00
+8577,screams,"Melbourne, Australia.",@OllyMursAus I do feel sorry for him! He is not a piece of meat! He is a nice guy... People don't need to rush him and screams in his face!,1,2022-11-08 04:45:00
+8837,sirens,Australia,MarketforceÛªs ÛÏCat SharkÛ wins Sirens round two http://t.co/6F9aFQL6WP #radio #news,0,2023-11-17 05:23:00
+8908,snowstorm,Australia,@Habbo bring back games from the past. Snowstorm. Tic tac toe. Battleships. Fast food. Matchwood.,1,2016-08-30 02:53:00
+9194,suicide%20bombing,Australia,@daisycuttertz @GROGParty @Tony_Burke He's been having lessons in suicide bombing from his imam!,1,2022-04-20 03:24:00
+9226,suicide%20bombing,Australia,Erdogan's Bloody Gambit: on July 20 a suicide bombing in Turkey took the lives of 31 socialists in SuruÌ¤ http://t.co/z6xAUIDRXu @Shareaholic,1,2019-07-08 09:54:00
+9393,survivors,AUSTRALIA-SOUTHAFRICA-CAMBODIA,The Cafe Run by Acid Attack Survivors in #India http://t.co/qmiF0bLwOa http://t.co/l6PIf3LpEn,1,2015-05-01 06:55:00
+9910,trouble,"Gold Coast, Australia",19 Things You'll Understand If You Have Trouble Talking to People http://t.co/sHaZNLMsFE,0,2018-05-25 14:42:00
+10157,upheaval,"Perth, Western Australia",@abcnews UK scandal of 2009 caused major upheaval to Parliamentary expenses with subsequent sackings and prison. What are we waiting for?,0,2019-02-10 06:32:00
+10208,volcano,"Perth, Australia",Jetstar and Virgin forced to cancel Bali flights again because of ash from Mount Raung volcano http://t.co/jTJoFLtMS4,1,2016-12-16 19:29:00
+10496,wildfire,Australia,NowPlaying GT &amp; Wildfire feat. Freaks In Love Feels Like It Should (Original Mix) Massive Dance Radio ListenLive: http://t.co/ANoDGXZR3E,0,2023-12-18 02:07:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2021-08-20 05:08:00
+8411,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1tr2KvXCTW,1,2019-03-12 09:59:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2020-03-17 05:20:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2018-09-04 09:41:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2017-09-03 00:58:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2022-02-05 06:41:00
+316,annihilated,Australia,One thing for sure-God has promised Israel will not be annihilated. But...the horror of Iran w/nukes. https://t.co/xn09Mx6sxy,0,2018-07-05 12:48:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2019-09-18 03:54:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2019-07-21 11:51:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2016-01-10 11:23:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2020-08-27 00:47:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2020-11-15 01:28:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2015-07-24 23:16:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2023-09-08 07:43:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2018-11-28 06:51:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2019-06-12 21:38:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2015-07-05 03:21:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2022-01-16 08:15:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2019-12-14 03:00:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2015-10-29 20:47:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2015-08-16 08:03:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2022-10-05 19:05:00
+8411,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1tr2KvXCTW,1,2015-05-17 03:57:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2017-07-08 00:26:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2022-11-15 04:14:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2018-09-23 19:38:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2016-08-12 07:43:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2021-06-14 12:05:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2023-02-25 06:32:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2019-09-24 04:28:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2018-08-26 10:38:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2016-02-21 01:50:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2017-02-09 23:30:00
+4922,exploded,Australia,The Dress Memes Have Officially Exploded On The Internet http://t.co/yG32yb2jDY,0,2022-05-24 07:34:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2015-10-27 08:13:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2020-10-11 11:53:00
+8432,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/8L4RFFZD0P,1,2022-05-09 11:43:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2023-07-10 07:40:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2021-10-13 19:32:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2020-03-13 06:32:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2023-07-09 06:58:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2020-09-02 21:47:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2021-11-04 22:51:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2023-07-18 07:38:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2019-01-20 17:24:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2015-02-03 12:07:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2015-06-27 03:55:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2017-03-30 06:10:00
+2356,collapsed,Australia,@sholt87 @MtGrotto @Eco11C @carlsbadbugkil1 Saved us?Bush lowered tax rate for wealthy n economy collapsed w/Middle Class 401ks destroyed.,0,2019-03-19 11:43:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2018-05-02 18:02:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2018-10-27 11:50:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2018-04-22 10:05:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2019-04-06 03:54:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2017-01-15 17:50:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2016-10-23 05:36:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2018-01-31 04:05:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2021-11-19 12:10:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2022-06-14 19:26:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2017-05-09 08:35:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2016-01-01 03:41:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2019-01-15 11:24:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2022-12-03 00:04:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2019-12-20 20:32:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2015-02-20 10:11:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2022-09-01 04:38:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2016-04-20 18:53:00
+316,annihilated,Australia,One thing for sure-God has promised Israel will not be annihilated. But...the horror of Iran w/nukes. https://t.co/xn09Mx6sxy,0,2017-05-30 19:37:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2018-03-15 20:10:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2020-08-10 10:45:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2016-10-30 08:52:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2021-12-05 21:40:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2021-11-01 04:14:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2017-06-03 01:46:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2022-05-21 07:04:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2015-08-24 09:32:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2022-06-05 11:00:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2020-08-09 21:05:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2023-07-14 20:57:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2019-06-09 06:44:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2019-08-26 19:31:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2015-11-08 17:30:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2022-10-27 12:35:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2019-12-06 12:19:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2021-09-12 18:22:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2020-01-10 01:09:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2018-03-08 09:43:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2018-11-20 17:17:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2021-07-05 15:00:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2016-01-04 17:47:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2022-08-10 03:29:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2020-03-11 14:35:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2015-01-17 07:28:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2022-06-26 04:27:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2020-09-23 10:35:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2022-03-09 18:14:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2021-09-06 00:15:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2019-07-27 12:32:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2016-09-22 10:59:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2017-03-05 04:31:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2015-04-28 00:33:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2016-12-26 15:37:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2017-06-28 06:53:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2022-09-25 19:52:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2016-05-22 20:38:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2020-01-28 09:17:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2016-05-29 09:04:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2023-05-25 03:49:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2018-12-27 01:14:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2023-04-22 02:53:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2021-08-17 13:00:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2021-05-14 20:34:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2023-07-30 07:12:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2021-09-04 22:39:00
+6787,lightning,Australia,Cell Phone Shop : http://t.co/iOq051t5te #629 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iÛ_ http://t.co/klxAUcNP5I,1,2015-08-08 15:19:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2016-07-06 10:51:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2015-12-11 06:07:00
+10210,volcano,Australia,"Japan Aogashima Volcano. By Unknown - Check It Out! http://t.co/OegFQBIqIq
+ #Aogashima #Japan #photography #Volcano",1,2020-08-24 02:37:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2017-07-21 19:48:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2015-01-24 11:17:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2016-08-27 07:25:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2018-05-24 23:09:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2016-05-06 13:29:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2016-03-28 09:52:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2018-01-11 05:39:00
+8106,rescued,Australia,Rescued Med migrants arrive in Sicily http://t.co/nekm1RPohU,1,2022-04-10 09:30:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2020-06-24 05:39:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2022-04-10 21:28:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2021-12-25 07:56:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2019-03-12 10:32:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2023-10-07 18:30:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2022-06-26 13:32:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2021-01-25 23:21:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2023-06-25 00:38:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2017-03-28 21:52:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2015-03-02 22:35:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2015-10-24 23:42:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2020-06-10 19:04:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2019-07-07 22:13:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2019-04-06 06:52:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2021-02-13 21:05:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2018-10-02 12:20:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2019-07-20 22:25:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2018-04-16 06:40:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2018-09-04 07:52:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2017-07-26 03:06:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2018-05-11 20:35:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2021-07-29 19:35:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2022-12-31 19:05:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2017-03-05 09:35:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2022-01-21 02:52:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2017-08-17 17:56:00
+2356,collapsed,Australia,@sholt87 @MtGrotto @Eco11C @carlsbadbugkil1 Saved us?Bush lowered tax rate for wealthy n economy collapsed w/Middle Class 401ks destroyed.,0,2019-08-29 00:34:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2023-01-05 13:15:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2022-12-21 05:08:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2018-11-06 13:34:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2015-01-18 13:57:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2023-10-30 02:54:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2016-07-24 19:47:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2018-04-13 05:01:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2020-04-03 06:42:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2020-04-14 15:12:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2019-06-10 23:14:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2019-02-17 14:27:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2017-06-10 16:40:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2017-08-17 13:57:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2023-08-28 10:14:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2016-03-06 06:36:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2020-06-04 09:21:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2022-05-12 16:00:00
+10533,wildfire,Australia,The Latest: #Wildfire destroys more homes but crews advance - WQOW TV News 18 http://t.co/Hj26SFDdfI,1,2018-11-16 06:18:00
+10115,upheaval,Australia,Newberg upheaval: Jacque Betz responds 'looking forward to the day' she can answerÛ_ http://t.co/LzasR05ljo  #news http://t.co/IeMxGSE2BE,0,2018-12-03 21:53:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2021-02-01 07:36:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2022-05-16 21:04:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2018-08-31 04:05:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2020-03-03 09:04:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2022-04-28 17:43:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2015-10-31 18:40:00
+4922,exploded,Australia,The Dress Memes Have Officially Exploded On The Internet http://t.co/yG32yb2jDY,0,2018-02-23 08:38:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2023-11-27 11:44:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2019-03-22 01:03:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2017-04-03 19:36:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2016-12-31 13:26:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2021-07-21 18:22:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2015-07-03 10:19:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2022-09-01 09:46:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2016-10-24 05:36:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2016-04-06 15:54:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2015-01-25 14:57:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2020-04-22 16:35:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2020-02-12 05:41:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2018-05-09 13:50:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2015-10-23 11:39:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2020-10-06 22:19:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2019-10-06 09:24:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2022-03-06 13:33:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2015-12-28 02:15:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2023-01-21 14:00:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2023-03-04 03:21:00
+316,annihilated,Australia,One thing for sure-God has promised Israel will not be annihilated. But...the horror of Iran w/nukes. https://t.co/xn09Mx6sxy,0,2016-04-07 00:44:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2017-02-14 17:23:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2016-04-07 15:05:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2016-03-31 16:29:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2017-04-10 07:26:00
+5604,flood,Australia,Flood Prone Waterways In Westchester County Now Eligible For Millions In State Aid #NewYork - http://t.co/XSR2VUJyIz,1,2020-05-08 05:34:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2015-02-02 04:55:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2022-04-07 16:55:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2020-07-08 14:29:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2023-01-19 09:42:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2018-05-03 16:50:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2018-09-08 23:11:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2017-10-06 00:20:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2020-12-10 03:37:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2017-08-23 11:55:00
+3747,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3939 ships with 11 destroyed,0,2020-09-29 11:16:00
+5604,flood,Australia,Flood Prone Waterways In Westchester County Now Eligible For Millions In State Aid #NewYork - http://t.co/XSR2VUJyIz,1,2023-05-03 04:42:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2021-10-21 11:26:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2021-01-27 20:15:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2020-10-05 15:17:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2021-12-09 08:46:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2017-02-16 14:13:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2021-06-16 23:00:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2018-11-04 09:58:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2022-05-24 09:49:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2017-11-29 16:17:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2015-04-23 20:43:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2017-04-29 22:58:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2021-09-07 04:37:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2016-06-14 09:30:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2015-12-06 14:47:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2016-02-08 15:59:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2021-07-19 20:19:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2015-05-09 23:15:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2016-07-04 18:20:00
+3470,derailed,Australia,@stury Note there were no passengers on board when the train derailed this morning.,1,2019-09-22 07:59:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2023-01-27 12:15:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2017-10-12 14:32:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2016-01-02 03:38:00
+9220,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7cIbxls55f,1,2020-10-11 18:12:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2023-02-02 09:07:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2015-02-27 18:54:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2022-12-12 11:51:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2019-12-25 14:24:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2019-10-28 03:14:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2015-02-26 18:53:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2015-03-02 14:57:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2020-01-27 17:51:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2015-08-14 17:28:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2019-03-08 13:05:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2015-10-12 18:59:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2016-01-04 00:53:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2020-09-21 23:34:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2018-11-03 02:24:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2017-06-24 11:35:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2023-08-07 20:10:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2022-01-18 22:12:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2023-05-31 00:39:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2016-08-09 07:08:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2016-06-02 09:49:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2020-06-19 08:24:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2023-03-01 14:46:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2016-02-18 03:52:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2021-09-27 00:53:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2018-12-15 10:42:00
+9220,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7cIbxls55f,1,2016-10-04 02:47:00
+316,annihilated,Australia,One thing for sure-God has promised Israel will not be annihilated. But...the horror of Iran w/nukes. https://t.co/xn09Mx6sxy,0,2017-03-13 22:58:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2017-02-06 14:31:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2020-10-15 19:36:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2018-02-04 13:23:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2015-07-27 19:05:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2021-03-21 01:00:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2020-04-08 20:07:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2022-05-17 02:21:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2016-06-16 23:04:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2015-11-19 14:11:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2017-01-06 15:38:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2021-07-12 00:13:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2020-09-26 15:33:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2015-09-24 08:59:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2017-01-27 16:10:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2017-07-28 18:19:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2017-05-09 14:26:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2016-06-01 15:57:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2019-09-17 17:28:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2020-11-11 19:13:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2017-05-20 04:24:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2016-04-23 03:52:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2019-03-28 05:41:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2021-12-26 08:13:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2022-02-22 07:18:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2019-01-26 13:11:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2020-08-21 07:36:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2018-12-06 14:34:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2020-09-29 20:06:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2020-11-24 19:51:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2017-04-10 18:41:00
+5200,fatalities,Australia,Las Vegas in top 5 cities for red-light running fatalities http://t.co/kC8O81BcHG,1,2017-05-30 16:36:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2023-07-16 06:21:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2023-04-14 19:06:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2019-10-12 11:51:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2020-10-15 00:07:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2020-04-10 11:30:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2023-09-12 00:48:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2016-05-07 14:54:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2023-06-23 13:55:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2023-10-26 15:44:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2016-07-10 23:04:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2019-06-09 19:22:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2018-11-16 08:28:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2019-03-03 20:13:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2015-09-08 09:59:00
+8411,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1tr2KvXCTW,1,2015-11-21 15:24:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2019-09-20 02:24:00
+10210,volcano,Australia,"Japan Aogashima Volcano. By Unknown - Check It Out! http://t.co/OegFQBIqIq
+ #Aogashima #Japan #photography #Volcano",1,2021-09-12 04:07:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2018-02-05 09:20:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2021-03-01 04:00:00
+10613,wounded,Australia,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/brE2lGmn7C #ABC #News #AN247,1,2016-01-08 00:26:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2015-04-03 00:37:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2020-06-28 15:12:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2021-01-18 18:19:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2019-11-13 12:44:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2018-04-20 12:29:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2021-06-15 17:00:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2020-02-15 06:16:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2017-05-14 08:47:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2022-12-19 20:26:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2021-07-17 10:08:00
+8106,rescued,Australia,Rescued Med migrants arrive in Sicily http://t.co/nekm1RPohU,1,2017-12-17 17:37:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2020-08-05 07:09:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2016-03-13 15:54:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2019-06-25 17:38:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2022-03-05 09:58:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2018-08-10 20:53:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2015-06-28 15:50:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2015-09-10 07:35:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2021-04-06 10:52:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2021-04-18 15:20:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2017-01-28 08:02:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2019-09-02 13:31:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2019-02-06 06:06:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2021-06-03 21:36:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2016-01-17 12:14:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2016-07-26 01:21:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2019-04-09 14:30:00
+6909,mass%20murderer,Australia,#gunsense answer to #GFZ's: break law on the minuscule chance a mass murderer shows up. https://t.co/qEoPMCJbCz,1,2019-02-05 19:42:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2017-01-12 13:29:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2021-03-22 13:25:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2022-02-12 12:03:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2018-05-15 01:37:00
+8106,rescued,Australia,Rescued Med migrants arrive in Sicily http://t.co/nekm1RPohU,1,2023-03-23 05:53:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2017-10-06 02:19:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2016-12-21 17:00:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2018-05-18 05:05:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2016-01-14 09:01:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2020-12-01 00:44:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2020-11-20 02:22:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2016-10-17 03:42:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2019-12-21 05:22:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2018-04-24 11:36:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2022-11-23 01:17:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2022-03-13 00:05:00
+10210,volcano,Australia,"Japan Aogashima Volcano. By Unknown - Check It Out! http://t.co/OegFQBIqIq
+ #Aogashima #Japan #photography #Volcano",1,2017-09-25 17:54:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2017-11-29 10:54:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2020-02-06 02:23:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2022-04-28 06:13:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2019-06-04 14:16:00
+8423,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/xSZicdWxq0,1,2017-03-27 01:38:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2023-01-15 03:21:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2022-11-29 15:15:00
+10115,upheaval,Australia,Newberg upheaval: Jacque Betz responds 'looking forward to the day' she can answerÛ_ http://t.co/LzasR05ljo  #news http://t.co/IeMxGSE2BE,0,2020-03-11 13:08:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2018-03-13 08:51:00
+5200,fatalities,Australia,Las Vegas in top 5 cities for red-light running fatalities http://t.co/kC8O81BcHG,1,2023-04-30 14:17:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2017-08-28 23:39:00
+3470,derailed,Australia,@stury Note there were no passengers on board when the train derailed this morning.,1,2020-08-31 19:34:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2016-07-17 12:04:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2018-08-24 20:53:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2017-08-03 23:15:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2020-06-16 07:30:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2018-02-21 18:55:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2016-09-13 00:31:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2015-11-05 19:45:00
+5988,hazardous,Australia,#Taiwan Grace: expect that large rocks trees mud unstable and/or saturated land may slide ..very hazardous in hilly/mountain areas...,1,2019-06-10 12:10:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2022-01-03 19:29:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2019-06-10 09:59:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2015-08-27 21:30:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2023-10-11 16:31:00
+10613,wounded,Australia,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/brE2lGmn7C #ABC #News #AN247,1,2016-06-09 15:57:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2018-07-05 19:49:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2023-12-01 12:10:00
+3355,demolition,Australia,EPA begins demolition of homes in toxic area #Buffalo - http://t.co/noRkXBRS6G,1,2022-08-15 07:41:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2016-09-05 00:06:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2023-01-06 07:03:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2022-10-18 13:50:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2023-04-17 07:33:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2021-01-26 00:10:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2019-10-11 07:13:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2018-07-01 04:50:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2022-11-06 20:04:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2019-03-24 03:21:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2015-11-10 10:52:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2021-07-11 14:20:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2019-07-30 02:23:00
+10533,wildfire,Australia,The Latest: #Wildfire destroys more homes but crews advance - WQOW TV News 18 http://t.co/Hj26SFDdfI,1,2021-04-27 21:10:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2019-07-08 05:38:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2021-03-02 08:13:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2015-11-30 20:04:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2018-10-10 01:23:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2015-12-01 15:11:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2020-05-01 04:31:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2023-10-10 03:04:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2018-07-15 19:20:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2021-10-07 22:17:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2016-04-14 01:11:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2018-01-28 06:48:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2017-06-10 03:46:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2020-05-30 15:54:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2015-09-30 18:36:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2022-11-23 19:33:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2015-02-03 15:13:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2017-07-29 16:05:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2015-03-31 03:44:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2017-09-22 14:46:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2016-10-30 12:25:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2017-02-05 22:07:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2023-01-31 21:50:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2016-08-17 14:41:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2022-07-13 16:03:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2016-11-26 05:01:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2019-05-02 03:00:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2018-05-29 13:46:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2017-04-14 03:53:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2019-01-09 10:21:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2018-08-07 20:19:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2015-02-18 19:00:00
+2356,collapsed,Australia,@sholt87 @MtGrotto @Eco11C @carlsbadbugkil1 Saved us?Bush lowered tax rate for wealthy n economy collapsed w/Middle Class 401ks destroyed.,0,2018-12-30 02:11:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2015-02-08 07:56:00
+8423,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/xSZicdWxq0,1,2021-11-16 04:49:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2017-08-19 16:46:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2022-04-13 12:26:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2020-01-02 07:17:00
+2356,collapsed,Australia,@sholt87 @MtGrotto @Eco11C @carlsbadbugkil1 Saved us?Bush lowered tax rate for wealthy n economy collapsed w/Middle Class 401ks destroyed.,0,2015-05-18 05:51:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2015-09-02 08:01:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2021-10-17 10:16:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2021-06-02 01:34:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2019-01-07 12:30:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2023-02-13 05:00:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2017-04-26 06:56:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2022-04-25 05:20:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2019-07-28 06:21:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2016-05-05 08:33:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2019-07-10 14:52:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2015-03-14 15:25:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2021-09-30 16:25:00
+6909,mass%20murderer,Australia,#gunsense answer to #GFZ's: break law on the minuscule chance a mass murderer shows up. https://t.co/qEoPMCJbCz,1,2023-02-19 15:56:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2016-05-29 12:13:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2017-11-27 14:38:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2019-05-11 23:41:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2018-12-31 01:37:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2016-09-28 00:52:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2018-07-06 02:07:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2020-04-21 18:50:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2022-10-03 05:22:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2018-04-30 12:46:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2020-07-28 13:13:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2018-10-20 17:49:00
+9220,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7cIbxls55f,1,2022-02-25 15:22:00
+9220,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7cIbxls55f,1,2017-09-29 13:45:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2016-07-01 00:47:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2019-04-02 19:24:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2020-01-29 06:01:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2016-01-27 07:22:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2022-12-26 01:03:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2017-11-01 06:22:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2020-09-13 13:53:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2017-09-06 17:46:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2023-10-22 05:12:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2023-04-10 11:17:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2019-03-14 17:08:00
+8432,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/8L4RFFZD0P,1,2021-08-30 02:48:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2018-01-17 11:32:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2022-01-12 05:51:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2017-04-17 13:51:00
+6909,mass%20murderer,Australia,#gunsense answer to #GFZ's: break law on the minuscule chance a mass murderer shows up. https://t.co/qEoPMCJbCz,1,2018-08-19 08:14:00
+5988,hazardous,Australia,#Taiwan Grace: expect that large rocks trees mud unstable and/or saturated land may slide ..very hazardous in hilly/mountain areas...,1,2022-04-05 08:54:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2015-12-27 01:43:00
+3747,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3939 ships with 11 destroyed,0,2023-10-27 22:11:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2016-10-02 12:43:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2021-09-11 21:18:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2019-04-27 04:26:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2016-02-25 07:47:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2016-11-22 16:22:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2021-02-06 03:52:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2018-06-05 00:19:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2019-06-28 01:25:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2021-11-25 23:28:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2019-10-08 09:26:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2023-11-07 00:57:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2019-03-26 15:40:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2016-05-02 10:43:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2017-12-27 00:42:00
+6787,lightning,Australia,Cell Phone Shop : http://t.co/iOq051t5te #629 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iÛ_ http://t.co/klxAUcNP5I,1,2017-04-26 17:10:00
+3747,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3939 ships with 11 destroyed,0,2018-04-18 12:12:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2016-01-13 15:24:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2017-07-14 15:04:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2022-01-31 06:06:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2022-05-29 02:40:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2018-12-27 01:45:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2017-02-04 06:59:00
+8423,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/xSZicdWxq0,1,2017-10-25 21:08:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2015-01-29 09:22:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2016-03-19 01:58:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2015-11-11 16:32:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2020-08-01 18:46:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2023-05-28 00:28:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2023-10-15 13:46:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2016-07-23 15:32:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2022-03-23 23:24:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2023-07-20 08:32:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2020-02-26 21:48:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2021-09-14 21:18:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2016-03-09 01:16:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2018-09-12 03:23:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2015-01-22 07:01:00
+6909,mass%20murderer,Australia,#gunsense answer to #GFZ's: break law on the minuscule chance a mass murderer shows up. https://t.co/qEoPMCJbCz,1,2021-01-09 10:44:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2021-02-23 06:15:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2022-08-02 21:01:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2020-05-01 09:10:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2015-09-21 18:49:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2015-11-26 08:25:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2022-07-25 21:35:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2018-01-22 22:55:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2020-09-14 03:13:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2022-05-20 16:21:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2022-01-18 02:31:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2021-02-26 03:35:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2016-02-03 11:52:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2020-09-19 01:22:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2019-03-18 04:15:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2016-09-16 06:40:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2019-09-03 00:56:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2018-06-03 18:33:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2015-02-22 19:01:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2018-02-03 14:17:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2017-03-20 18:14:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2018-05-21 12:07:00
+4833,evacuation,Australia,Bend Post Office roofers cut gas line prompt evacuation - http://t.co/6mF7eyZOAw,1,2021-10-21 03:59:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2021-02-27 00:17:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2017-07-20 01:16:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2021-12-27 09:44:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2018-09-02 20:14:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2017-10-15 23:18:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2015-01-05 19:53:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2018-02-03 17:44:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2023-06-06 15:14:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2021-09-27 06:00:00
+10115,upheaval,Australia,Newberg upheaval: Jacque Betz responds 'looking forward to the day' she can answerÛ_ http://t.co/LzasR05ljo  #news http://t.co/IeMxGSE2BE,0,2023-02-21 02:15:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2022-03-27 19:22:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2020-02-19 08:09:00
+3470,derailed,Australia,@stury Note there were no passengers on board when the train derailed this morning.,1,2020-11-28 09:26:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2016-08-26 11:42:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2016-03-08 21:28:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2020-09-02 14:43:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2022-01-17 15:20:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2019-04-26 12:30:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2022-12-14 13:21:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2022-07-24 01:52:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2015-05-26 03:22:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2022-01-05 17:36:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2015-11-21 20:33:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2018-07-08 10:23:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2022-01-27 13:34:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2019-10-03 23:23:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2023-06-09 22:45:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2021-01-04 21:58:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2019-10-02 10:20:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2023-09-05 21:47:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2021-08-31 12:55:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2019-02-03 17:34:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2016-08-14 03:23:00
+8411,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1tr2KvXCTW,1,2022-10-23 07:46:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2018-08-29 12:31:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2021-09-04 23:58:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2019-12-14 22:24:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2020-05-28 07:07:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2022-09-10 16:51:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2017-11-19 06:22:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2021-09-16 02:11:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2019-11-18 18:53:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2022-10-09 19:28:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2015-11-19 08:35:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2019-04-15 16:28:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2015-06-03 10:47:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2023-07-11 21:00:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2018-12-05 01:06:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2016-11-13 00:49:00
+3747,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3939 ships with 11 destroyed,0,2017-03-07 05:19:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2017-08-24 17:32:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2018-01-12 09:46:00
+3470,derailed,Australia,@stury Note there were no passengers on board when the train derailed this morning.,1,2017-10-28 11:07:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2019-01-02 10:08:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2019-07-02 10:30:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2017-06-29 19:41:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2018-08-20 19:09:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2023-09-16 06:22:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2023-01-12 23:24:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2021-02-05 04:41:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2020-04-07 11:51:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2020-09-22 11:28:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2018-03-15 05:40:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2021-12-30 02:39:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2020-11-08 09:33:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2020-08-18 04:23:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2016-09-04 00:54:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2017-09-26 03:58:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2022-12-10 03:33:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2018-04-29 04:07:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2021-08-31 21:43:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2021-11-07 04:01:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2022-03-05 14:44:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2015-06-04 14:48:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2016-07-21 22:23:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2020-03-21 11:11:00
+8106,rescued,Australia,Rescued Med migrants arrive in Sicily http://t.co/nekm1RPohU,1,2015-03-22 21:47:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2022-04-30 06:41:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2015-05-18 02:51:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2016-01-14 04:40:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2020-08-05 07:51:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2020-01-09 10:12:00
+8423,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/xSZicdWxq0,1,2018-07-17 05:08:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2017-02-22 00:20:00
+8106,rescued,Australia,Rescued Med migrants arrive in Sicily http://t.co/nekm1RPohU,1,2019-04-05 04:12:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2018-10-12 08:08:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2022-02-26 09:46:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2023-06-15 14:33:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2015-01-02 07:52:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2022-04-28 21:50:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2018-01-26 23:28:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2022-11-30 21:59:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2019-07-14 13:49:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2015-04-25 19:34:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2019-04-23 08:53:00
+5604,flood,Australia,Flood Prone Waterways In Westchester County Now Eligible For Millions In State Aid #NewYork - http://t.co/XSR2VUJyIz,1,2016-11-03 21:10:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2016-02-09 10:23:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2016-02-14 04:35:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2023-05-29 16:26:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2016-09-29 02:01:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2020-03-13 23:09:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2017-10-06 21:10:00
+8106,rescued,Australia,Rescued Med migrants arrive in Sicily http://t.co/nekm1RPohU,1,2018-08-16 23:10:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2023-04-23 16:18:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2015-03-27 21:59:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2017-04-26 04:22:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2018-03-27 14:33:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2020-09-10 17:21:00
+3355,demolition,Australia,EPA begins demolition of homes in toxic area #Buffalo - http://t.co/noRkXBRS6G,1,2022-09-05 20:33:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2017-01-23 10:50:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2016-05-29 11:32:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2019-06-13 10:50:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2023-02-28 00:44:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2020-06-22 17:58:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2023-12-01 10:05:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2021-07-11 08:21:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2019-12-25 22:11:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2023-01-07 06:48:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2015-03-11 16:57:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2023-03-05 00:26:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2021-01-19 10:01:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2022-04-10 13:13:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2017-12-28 02:00:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2015-10-20 22:31:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2020-10-03 16:31:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2020-05-19 14:51:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2015-01-06 03:37:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2016-03-28 02:54:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2023-05-06 06:03:00
+8432,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/8L4RFFZD0P,1,2023-11-16 00:18:00
+8433,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/TvYQczGJdy,1,2019-10-24 22:55:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2023-07-24 15:50:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2022-06-28 22:49:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2016-01-04 01:27:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2017-06-09 23:40:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2021-06-28 05:27:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2021-08-03 00:25:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2020-09-03 16:22:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2022-11-02 17:59:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2017-01-31 20:57:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2021-04-15 13:40:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2021-01-09 09:07:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2018-08-25 14:25:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2022-03-08 09:14:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2016-05-16 04:19:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2022-06-09 00:28:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2021-06-18 05:26:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2015-04-14 08:05:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2021-10-26 05:55:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2023-01-10 10:44:00
+8432,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/8L4RFFZD0P,1,2017-07-20 20:50:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2015-05-28 11:40:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2023-01-13 16:36:00
+10449,wild%20fires,Australia,#FOXDebateQuestions:  To what degree has Obama's efforts to institute Sharia Law exacerbated the California wild fires?,1,2015-06-29 23:13:00
+4624,emergency%20services,Australia,#Breaking #News - Call for Tasmania's emergency services to be trained in horse ... - http://t.co/urJwsVr311 http://t.co/7JfrETeIi4,1,2016-05-27 00:32:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2021-10-19 20:21:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2020-08-12 02:39:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2018-05-14 20:27:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2022-01-12 10:00:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2018-08-27 01:38:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2016-07-20 09:44:00
+9220,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7cIbxls55f,1,2017-01-24 05:22:00
+5604,flood,Australia,Flood Prone Waterways In Westchester County Now Eligible For Millions In State Aid #NewYork - http://t.co/XSR2VUJyIz,1,2019-07-16 12:07:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2015-11-02 08:59:00
+8393,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/mkWyvM3i8r,1,2015-06-18 05:52:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2017-06-25 16:22:00
+2356,collapsed,Australia,@sholt87 @MtGrotto @Eco11C @carlsbadbugkil1 Saved us?Bush lowered tax rate for wealthy n economy collapsed w/Middle Class 401ks destroyed.,0,2018-01-19 12:59:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2016-09-17 00:36:00
+3470,derailed,Australia,@stury Note there were no passengers on board when the train derailed this morning.,1,2015-12-15 06:45:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2015-12-25 16:07:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2019-11-11 22:13:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2016-06-22 17:43:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2020-07-21 13:01:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2023-07-11 21:16:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2022-07-07 06:18:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2015-05-23 04:10:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2015-10-03 10:55:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2022-11-01 03:20:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2017-10-27 00:19:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2017-07-27 07:53:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2023-08-09 16:05:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2016-08-31 15:26:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2018-04-11 11:36:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2016-01-06 01:01:00
+5604,flood,Australia,Flood Prone Waterways In Westchester County Now Eligible For Millions In State Aid #NewYork - http://t.co/XSR2VUJyIz,1,2019-09-23 07:52:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2022-05-01 06:10:00
+10115,upheaval,Australia,Newberg upheaval: Jacque Betz responds 'looking forward to the day' she can answerÛ_ http://t.co/LzasR05ljo  #news http://t.co/IeMxGSE2BE,0,2020-02-01 16:55:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2020-08-14 04:41:00
+5200,fatalities,Australia,Las Vegas in top 5 cities for red-light running fatalities http://t.co/kC8O81BcHG,1,2015-04-09 03:55:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2016-08-30 13:04:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2016-03-23 12:41:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2018-07-28 15:25:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2023-11-03 00:47:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2020-05-08 17:41:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2016-06-11 11:31:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2023-08-17 00:42:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2022-08-13 06:42:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2015-06-06 06:40:00
+8435,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/BB7TTdVJWE,1,2022-02-05 06:54:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2021-10-31 02:30:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2020-12-20 11:27:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2015-07-30 05:01:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2023-07-28 10:16:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2016-05-12 12:40:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2017-05-01 17:56:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2016-06-20 18:31:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2017-06-06 18:05:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2016-04-11 03:43:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2019-12-17 07:17:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2019-03-03 23:13:00
+8422,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/C9t2F6DLtM,1,2020-07-21 20:33:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2023-09-09 04:17:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2022-06-05 15:33:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2018-10-16 02:37:00
+10533,wildfire,Australia,The Latest: #Wildfire destroys more homes but crews advance - WQOW TV News 18 http://t.co/Hj26SFDdfI,1,2023-09-18 19:04:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2023-09-09 10:43:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2016-07-19 22:57:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2016-11-16 10:36:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2022-11-02 23:49:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2023-07-05 23:26:00
+461,armageddon,Australia,YOUR PHONE IS SPYING ON YOU! Hidden Back Door NSA Data Mining Software | THE FINANCIAL ARMAGEDDON BLOG http://t.co/qyCw5JJaj1,0,2019-12-11 17:57:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2016-10-25 06:41:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2020-12-05 14:29:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2015-04-29 04:31:00
+5988,hazardous,Australia,#Taiwan Grace: expect that large rocks trees mud unstable and/or saturated land may slide ..very hazardous in hilly/mountain areas...,1,2023-08-28 23:29:00
+5803,hail,Australia,Strong Thunderstorm 4 Miles North of Japton Moving SE At 25 MPH. Large Hail and Wind Gusts Up to 50 MPH Poss... #arwx http://t.co/blppzAIbOE,1,2015-07-18 04:35:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2021-09-04 03:37:00
+10075,typhoon,Australia,Typhoon Soudelor taking dead aim at Taiwan http://t.co/3Ac5wuy1R0,1,2017-07-15 13:42:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2020-02-06 15:25:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2018-01-24 08:12:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2017-11-05 20:46:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2023-11-29 09:31:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2020-11-20 16:36:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2020-01-25 18:31:00
+10613,wounded,Australia,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/brE2lGmn7C #ABC #News #AN247,1,2015-01-06 04:53:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2021-03-13 09:32:00
+79,ablaze,Australia,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1,2018-10-04 03:46:00
+10115,upheaval,Australia,Newberg upheaval: Jacque Betz responds 'looking forward to the day' she can answerÛ_ http://t.co/LzasR05ljo  #news http://t.co/IeMxGSE2BE,0,2022-10-16 16:27:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2015-11-19 13:53:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2023-02-18 11:26:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2020-05-06 05:02:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2019-03-13 07:14:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2018-12-07 18:57:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2020-08-19 06:27:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2017-01-16 02:55:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2023-12-27 23:07:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2016-02-14 04:37:00
+10210,volcano,Australia,"Japan Aogashima Volcano. By Unknown - Check It Out! http://t.co/OegFQBIqIq
+ #Aogashima #Japan #photography #Volcano",1,2023-04-21 01:41:00
+3719,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3942 ships with 14 destroyed,0,2021-04-20 23:02:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2023-12-15 02:14:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2022-06-08 04:44:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2019-11-21 06:35:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2021-06-24 14:40:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2019-10-31 12:50:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2018-12-30 18:33:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2017-01-10 04:56:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2020-12-29 23:17:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2020-09-13 16:12:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2019-02-09 23:18:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2023-07-16 03:11:00
+3355,demolition,Australia,EPA begins demolition of homes in toxic area #Buffalo - http://t.co/noRkXBRS6G,1,2016-08-21 15:05:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2023-09-26 18:59:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2022-05-25 09:53:00
+8404,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/rkU0IDM6aQ,1,2020-06-17 11:13:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2021-08-14 23:27:00
+7867,quarantined,Australia,@__ScrambledEggs calling it now: KIA gets banned or quarantined before month's end,0,2015-04-08 15:01:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2015-06-14 20:03:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2019-10-23 04:38:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2016-12-13 01:28:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2018-09-15 08:36:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2023-02-13 23:44:00
+8423,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/xSZicdWxq0,1,2016-06-08 18:55:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2017-02-16 18:45:00
+6787,lightning,Australia,Cell Phone Shop : http://t.co/iOq051t5te #629 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iÛ_ http://t.co/klxAUcNP5I,1,2020-05-20 06:51:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2022-08-02 17:07:00
+6742,lava,Australia,Check This Deal : http://t.co/uOoYgBb6aZ Sivan Health and Fitness Basalt Lava Hot Stone Massage Kit with 36 PieceÛ_ http://t.co/JJxcnwBp15,0,2017-09-27 23:25:00
+3742,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3934 ships with 7 destroyed,0,2022-11-29 11:27:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2015-04-09 18:49:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2017-03-19 23:44:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2017-04-12 09:16:00
+5988,hazardous,Australia,#Taiwan Grace: expect that large rocks trees mud unstable and/or saturated land may slide ..very hazardous in hilly/mountain areas...,1,2018-06-21 00:55:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2017-09-11 12:49:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2017-04-06 01:10:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2022-04-24 15:32:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2020-03-29 11:14:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2023-10-02 10:37:00
+5988,hazardous,Australia,#Taiwan Grace: expect that large rocks trees mud unstable and/or saturated land may slide ..very hazardous in hilly/mountain areas...,1,2015-06-09 10:04:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2016-12-06 14:55:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2017-03-15 01:42:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2023-08-04 15:25:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2022-04-27 00:14:00
+8411,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1tr2KvXCTW,1,2022-09-25 02:33:00
+3747,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3939 ships with 11 destroyed,0,2022-02-23 21:31:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2020-06-03 22:27:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2023-09-29 10:29:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2022-08-06 14:35:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2016-05-20 07:11:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2017-01-07 17:16:00
+8411,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/1tr2KvXCTW,1,2022-06-30 15:11:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2023-10-06 11:39:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2023-07-25 12:36:00
+3704,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3941 ships with 13 destroyed,0,2015-06-24 00:49:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2016-01-16 12:32:00
+805,battle,Australia,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1,2015-05-22 07:45:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2023-09-06 08:44:00
+838,bioterror,Australia,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1,2022-04-27 10:30:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2021-01-24 04:46:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2019-04-29 02:48:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2017-03-29 07:03:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2020-04-06 14:36:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2019-11-22 12:02:00
+10533,wildfire,Australia,The Latest: #Wildfire destroys more homes but crews advance - WQOW TV News 18 http://t.co/Hj26SFDdfI,1,2023-02-28 15:33:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2018-02-25 03:59:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2016-07-19 19:32:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2021-11-24 03:28:00
+6416,hurricane,Australia,Grace: here are damage levels Australia style.. #Taiwan #China #world hurricane/typhoon ratings/categories defined again http://t.co/OdYdT9QPk1,1,2023-02-13 13:45:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2018-12-20 18:48:00
+6665,landslide,Australia,Speaking of memorable debates: 60-Second Know-It-All: Ronald Reagan's landslide romp on Election Day in 1980 m... http://t.co/2XOhtjQJWh,0,2022-09-01 20:48:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2020-06-29 08:16:00
+8419,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/akNyNPv461,1,2017-10-25 22:50:00
+7768,police,Australia,$1 million bail for man accused of #shooting at Fife #police - Aug 5 @ 8:16 PM ET http://t.co/hu5CXqnoBf,1,2020-01-06 04:54:00
+2415,collide,Australia,When high fashion and food collide: Gucci has chosen one of ShanghaiÛªs most popular commercial avenue... http://t.co/MkRxQZeHmY #fashion,0,2016-04-13 10:54:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2020-10-16 08:21:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2017-02-12 09:57:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2022-02-10 00:59:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2016-02-11 20:40:00
+10628,wounded,Australia,ABC News: Police Officer Wounded Suspect Dead After Exchanging Shots. More #news - http://t.co/AzovGv4SB6,1,2019-07-13 12:56:00
+8441,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/bgM4cSrbVd,1,2021-12-20 16:24:00
+5988,hazardous,Australia,#Taiwan Grace: expect that large rocks trees mud unstable and/or saturated land may slide ..very hazardous in hilly/mountain areas...,1,2022-12-02 22:50:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2018-01-22 15:39:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2019-06-29 00:15:00
+8432,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/8L4RFFZD0P,1,2015-11-19 08:27:00
+3355,demolition,Australia,EPA begins demolition of homes in toxic area #Buffalo - http://t.co/noRkXBRS6G,1,2016-10-13 06:49:00
+7116,military,Australia,Mike Magner Discusses A Trust Betrayed: http://t.co/psbxl1HvU3 via @YouTube #military #veterans #environment,0,2021-12-14 16:28:00
+8428,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/qr6BtDCqCj,1,2019-05-08 18:37:00
+6909,mass%20murderer,Australia,#gunsense answer to #GFZ's: break law on the minuscule chance a mass murderer shows up. https://t.co/qEoPMCJbCz,1,2019-02-08 17:37:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2015-04-03 14:31:00
+4934,exploded,Australia,If you told me ten years ago that I'd be seeing anime on the big screen... ...I probably would have exploded,0,2019-11-18 09:49:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2016-03-13 06:38:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2019-03-21 19:05:00
+5200,fatalities,Australia,Las Vegas in top 5 cities for red-light running fatalities http://t.co/kC8O81BcHG,1,2015-07-04 20:02:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2020-08-23 05:16:00
+8400,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/brctMNybjy,1,2018-04-18 16:34:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2015-11-20 09:42:00
+569,arson,Australia,Palestinian Teen Killed Amid Protests Against Arson Attack http://t.co/okVsImoGic,1,2023-03-09 15:51:00
+10613,wounded,Australia,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/brE2lGmn7C #ABC #News #AN247,1,2018-05-05 08:57:00
+6787,lightning,Australia,Cell Phone Shop : http://t.co/iOq051t5te #629 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iÛ_ http://t.co/klxAUcNP5I,1,2022-10-26 21:26:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2022-12-12 06:19:00
+4252,drowning,Australia,Grace: this is not your first ' storm' you know bicycles fences trees will fly as well as idiots drowning that go by swollen rivers...,1,2023-06-16 03:24:00
+3718,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3967 ships with 39 destroyed,0,2020-09-11 14:17:00
+9949,trouble,Australia,@astros stunningly poor defense it's not all on the pitcher. If our bats are MIA like the top of 1st inning this team is in trouble.,0,2020-01-12 18:00:00
+3355,demolition,Australia,EPA begins demolition of homes in toxic area #Buffalo - http://t.co/noRkXBRS6G,1,2017-09-01 20:52:00
+9210,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/wD7s6S0vci,1,2022-02-16 17:11:00
+4689,engulfed,Australia,Car engulfed in flames backs up traffic at ParleyÛªs Summit http://t.co/RmucfjCaZr,1,2018-11-17 13:51:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2017-09-28 00:57:00
+3747,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3939 ships with 11 destroyed,0,2022-07-14 01:17:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2017-02-03 10:45:00
+551,arson,Australia,Thousands attend a rally organized by Peace Now protesting the arson attack that took the life of an http://t.co/bvCKd9pdTi,1,2019-05-22 06:53:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2020-10-12 07:31:00
+5247,fatality,Australia,Kosciusko police investigating pedestrian fatality hit by a train Thursday http://t.co/m5djLLxoZP,0,2017-06-04 20:01:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2016-12-02 01:05:00
+2043,casualties,Australia,Another day has passed and THANKFULLY Central Command has CONFIRMED NO new casualties. Please pray for those in... http://t.co/mFSw0tYstA,1,2023-06-09 16:08:00
+4509,emergency,Australia,Deals : http://t.co/ddhWoRI5w1 #37592 Temporary Fake Tooth Teeth Replacement Kit Emergency Dental Oral Care CosmeÛ_ http://t.co/ZCvfC500yY,0,2021-01-10 10:15:00
+9059,structural%20failure,Australia,Virgin galactic crash: early unlocking of brakes triggered structural failure - Irish Examiner http://t.co/ocMCvfDZkv,1,2019-10-13 04:30:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2016-11-23 10:05:00
+2379,collapsed,Australia,Petition | Heartless owner that whipped horse until it collapsed is told he can KEEP his animal! Act Now! http://t.co/nJRjxqBjr4,0,2020-07-13 16:39:00
+287,ambulance,Australia,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1,2017-09-03 07:07:00
+7831,quarantine,Australia,Reddit Will Now Quarantine OffensiveÛ_ http://t.co/wjWYJBncat #onlinecommunities #reddit #amageddon #freespeech http://t.co/0Erisq25KT,0,2020-10-26 18:49:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2022-03-18 14:18:00
+4859,evacuation,Australia,Evacuation order lifted for Roosevelt after #Wildfire misses town - KOMO News http://t.co/qCpMktGLLR,1,2023-07-20 00:25:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2017-04-03 11:41:00
+3738,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 3 fleets totaling 3945 ships with 17 destroyed,0,2016-04-23 17:17:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2020-07-27 04:48:00
+10115,upheaval,Australia,Newberg upheaval: Jacque Betz responds 'looking forward to the day' she can answerÛ_ http://t.co/LzasR05ljo  #news http://t.co/IeMxGSE2BE,0,2016-01-24 14:52:00
+6759,lightning,Australia,Phones Offers &gt;&gt; http://t.co/bYtbZ8s5ux #034 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iPÛ_ http://t.co/o3wVScLiCX,0,2015-09-01 03:29:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2020-07-01 11:10:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2018-04-17 19:01:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2017-06-03 02:48:00
+8431,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/87H5MbA3N1,1,2021-07-05 20:47:00
+8410,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Rm50vCVjsh,1,2022-08-28 16:52:00
+6787,lightning,Australia,Cell Phone Shop : http://t.co/iOq051t5te #629 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iÛ_ http://t.co/klxAUcNP5I,1,2015-05-01 20:25:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2015-03-04 19:01:00
+9235,suicide%20bombing,Australia,Turkish troops killed in Kurdish militant 'suicide attack' http://t.co/7old5MJWph,1,2017-09-07 18:07:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2022-12-16 21:16:00
+10613,wounded,Australia,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/brE2lGmn7C #ABC #News #AN247,1,2023-08-18 15:40:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2016-05-22 15:36:00
+2808,cyclone,Australia,"#Camera #Art #Photography http://t.co/TJGxDc3D5p #0215 New BoltåÊCyclone DR PP-400DR Dual Outlet Power PackåÊFor External Camera Flash
+
+$30Û_",0,2020-08-18 21:42:00
+9617,thunderstorm,Australia,@museawayfic @beenghosting @xylodemon ok ok what if I make the close quarters an abandoned cabin in the woods IN A THUNDERSTORM,1,2022-01-13 08:36:00
+4922,exploded,Australia,The Dress Memes Have Officially Exploded On The Internet http://t.co/yG32yb2jDY,0,2015-09-20 11:53:00
+6787,lightning,Australia,Cell Phone Shop : http://t.co/iOq051t5te #629 8-Pin Lightning Connector 2.1A Car Charger For Apple 5 5S 5C 6 6+ iÛ_ http://t.co/klxAUcNP5I,1,2020-10-29 08:56:00
+736,attacked,Australia,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1,2023-10-25 09:05:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2022-04-07 18:32:00
+2356,collapsed,Australia,@sholt87 @MtGrotto @Eco11C @carlsbadbugkil1 Saved us?Bush lowered tax rate for wealthy n economy collapsed w/Middle Class 401ks destroyed.,0,2018-12-30 12:30:00
+6038,heat%20wave,Australia,Heat Advisory is In Effect From 1 PM Through 7 PM Thursday. A Building Heat Wave and Increasing Humidity... #lawx http://t.co/u0SYkowVWV,1,2018-06-29 23:46:00
+5200,fatalities,Australia,Las Vegas in top 5 cities for red-light running fatalities http://t.co/kC8O81BcHG,1,2016-02-17 15:45:00
+6909,mass%20murderer,Australia,#gunsense answer to #GFZ's: break law on the minuscule chance a mass murderer shows up. https://t.co/qEoPMCJbCz,1,2017-05-25 23:36:00
+5446,first%20responders,Australia,First Responders Convene for National Summit and Awards on GIS Technology http://t.co/0T9yd557rY #gisuserPR #geoTech,0,2017-04-10 14:34:00
+5604,flood,Australia,Flood Prone Waterways In Westchester County Now Eligible For Millions In State Aid #NewYork - http://t.co/XSR2VUJyIz,1,2023-05-24 19:51:00
+5593,flood,Australia,Flood Advisory in effect for Shelby County in AL until 9 PM #alwx http://t.co/gTqMGsgcsB,1,2023-01-09 05:32:00
+3182,deluge,Australia,Audio: 16 Business Owners Share What They Would Do Differently Pt1 http://t.co/9uTqe9ZfDE,0,2022-08-07 13:35:00
+10511,wildfire,Australia,The Latest: Washington #Wildfire misses town; evacuations end - KHQ Right Now http://t.co/aNlhW2IzkZ,1,2020-03-13 14:29:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2022-08-05 17:32:00
+6069,heat%20wave,Australia,Heat wave in WB heavy losses and no compensations (report) -  http://t.co/wMDihdiz1r (via PalinfoEn)   #Palestine,1,2020-06-21 09:28:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2015-02-17 08:30:00
+1149,blight,Australia,City program to help turn blight into greenspace: The Tennessee Housing DevelopmentÛ_ http://t.co/ZZcbBQyJ1q  #news http://t.co/KKSgHsblFH,0,2019-07-05 00:32:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2015-05-22 00:41:00
+6466,injured,Australia,Offers : http://t.co/Gl3C1vc88P #8392 Deluxe Toilet Safety Support/Health/Home/Bathroom/Support/Elderly/Injured/SÛ_ http://t.co/vihdoKScCC,1,2022-09-03 04:25:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2017-01-16 09:03:00
+10066,typhoon,Australia,#breaking #news Global precipitation measurement satellite captures 3-D image of Typhoon Soudelor - @NASAHurricane http://t.co/20DNcthr4D,1,2016-07-21 01:47:00
+8668,sinkhole,Australia,Sinkhole Disrupts Downtown Trolley Service #SanDiego - http://t.co/9tb82ZMr2X,1,2015-01-21 04:51:00
+823,battle,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0,2020-07-23 18:47:00
+3337,demolished,Australia,#BBSNews latest 4 #Palestine &amp; #Israel -  Six Palestinians Kidnapped in West Bank Hebron Home Demolished http://t.co/gne1fW0XHE,1,2019-09-12 13:40:00
+10606,wounded,Australia,One man fatally shot another wounded on Vermont Street #Buffalo - http://t.co/8ACDF4Zui6,1,2019-03-04 11:39:00
+5617,flooding,Australia,Severe Thunderstorms and Flash Flooding Possible in the Mid-South and Midwest http://t.co/uAhIcWpIh4 #WEATHER #ENVIRONMENT #CLIMATE #NATURE,1,2015-01-11 02:59:00
+3036,death,Australia,I had no issues uploading DEATH TO SMOOCHY or AWAKENINGS clips to @YouTube but for some reason BICENTENNIAL MAN is being a pain in the ass.,0,2018-12-01 13:17:00
+7205,natural%20disaster,Australia,Coming later this year~ 'THE MAN THAT TATTOOED WOMEN.' A novel based on a real serial killer from #Arkansas &amp; a natural disaster. #NOLA,1,2023-11-05 17:43:00
+6725,lava,Australia,Deal of The Day : http://t.co/Australia0qQqhQVj Brand New DSERIALPCILP Lava Computer PCI Bus Dual Serial 16550 Board  #eÛ_ http://t.co/l0b14SJ7JB,0,2022-11-14 06:37:00
+10613,wounded,Australia,Police Officer Wounded Suspect Dead After Exchanging Shots http://t.co/brE2lGmn7C #ABC #News #AN247,1,2018-02-18 18:50:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2016-04-24 00:26:00
+2031,casualties,Australia,'Australian Weapons and Support Are Fueling a Bloody Air War in Yemen' http://t.co/7aGeAkVn2x,1,2020-10-09 04:43:00
+6202,hijacker,Australia,How to remove http://t.co/HRSfA8zujI BrowseråÊHijacker http://t.co/vLnjNoLNme http://t.co/iF5RoGFJRi,0,2019-01-13 04:12:00
+3722,destroyed,Australia,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 3942 ships with 13 destroyed,0,2019-03-07 05:48:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2015-07-28 20:55:00
+4922,exploded,Australia,The Dress Memes Have Officially Exploded On The Internet http://t.co/yG32yb2jDY,0,2015-05-24 19:53:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2022-11-08 10:31:00
+8412,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/Q0X7e84R4e,1,2016-11-29 20:00:00
+5582,flood,Australia,Motors Hot Deals #452 &gt;&gt; http://t.co/ED32PBviO7 10x 27W 12V 24V LED Work Light FLOOD Lamp Tractor Truck SUV UTV AÛ_ http://t.co/IfM6v6480P,0,2022-06-19 08:49:00
+9450,terrorism,Australia,Preacher faces UK terrorism charges http://t.co/daPlllFuqK,1,2020-11-10 18:20:00
+3423,derail,Australia,Lake Dallas crash causes train to derail http://t.co/ao4Ju9vMMF,1,2021-03-03 17:46:00
+8405,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/7IJlZ6BcSP,1,2016-06-13 23:01:00
+4463,electrocuted,Australia,South Side factory where worker electrocuted pays $17000 penalty #Columbus - http://t.co/N8EzfCTfcE,1,2018-10-14 07:20:00
+8079,rescue,Australia,"Lunch for the crew is made. Night night it's been a long day! 
+~Peace~Love~Rescue~",0,2021-05-22 07:28:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2021-06-09 07:42:00
+5310,fear,Australia,"Daily Reflections
+August 6
+DRIVEN
+Driven by a hundred forms of fear self-delusion self-seeking and self-pity... http://t.co/DXfqOu4kT2",0,2017-12-16 13:27:00
+5836,hailstorm,Australia,@Haley_Whaley Hailstorm Hey There is a Secret Trick to get 375.000 Gems Clash ofClans check them now on my Profile,0,2022-02-01 14:54:00
+1340,blown%20up,Australia,@troylercraft YEAH ITS NOT WORTH IT BC HE ALREADY HAS SO MANY SPAMMERS &amp; HIS TWITTER IS PROBABLY BLOWN UP EVERY SECOND,0,2021-07-08 21:09:00
+8418,sandstorm,Australia,Watch This Airport Get Swallowed Up By A Sandstorm In Under A Minute http://t.co/sEquWmvFx4,1,2023-06-22 00:13:00
