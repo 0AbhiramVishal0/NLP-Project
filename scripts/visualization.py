@@ -1,5 +1,6 @@
 import pandas as pd
-import plotly.express as px
+import matplotlib.pyplot as plt
+import geopandas as gpd
 
 # Load the data
 df = pd.read_csv('data/nlp_australia_tweets.csv')
@@ -7,22 +8,39 @@ df = pd.read_csv('data/nlp_australia_tweets.csv')
 # Create a pseudo-date column (for demonstration purposes)
 df['PseudoDate'] = pd.to_datetime(df['DateTime'])
 
-# Time Series Analysis with Plotly
-tweet_counts = df.set_index('PseudoDate').resample('D').size().reset_index(name='Counts')
-fig = px.line(tweet_counts, x='PseudoDate', y='Counts', title='Time Series Analysis of Tweet Volume')
+# Time Series Analysis with Matplotlib
+tweet_counts = df.set_index('PseudoDate').resample('D').size()
+plt.figure(figsize=(10, 5))
+plt.plot(tweet_counts.index, tweet_counts.values, label='Tweet Counts')
+plt.title('Time Series Analysis of Tweet Volume')
+plt.xlabel('Date')
+plt.ylabel('Number of Tweets')
+plt.legend()
+plt.savefig('app/static/images/time_series_analysis.png')
+plt.show()
+plt.close()
 
-# Save as image using Kaleido
-fig.write_image('app/static/images/time_series_analysis.png', engine='kaleido')
+# Sentiment Analysis Distribution with Matplotlib
+plt.figure(figsize=(10, 5))
+df['Sentiment'].value_counts().plot(kind='bar')
+plt.title('Sentiment Analysis Distribution')
+plt.xlabel('Sentiment')
+plt.ylabel('Number of Tweets')
+plt.savefig('app/static/images/sentiment_distribution.png')
+plt.show()
+plt.close()
 
-# Sentiment Analysis Distribution
-fig = px.histogram(df, x='Sentiment', nbins=50, title='Sentiment Analysis Distribution')
-fig.write_image('app/static/images/sentiment_distribution.png', engine='kaleido')
-
-# Geographical Distribution with Plotly (if longitude and latitude are available)
+# Geographical Distribution with Matplotlib
 if 'Longitude' in df.columns and 'Latitude' in df.columns:
-    fig = px.scatter_geo(df, lat='Latitude', lon='Longitude', color='Sentiment',
-                         hover_name='Cleaned_Tweet', title='Geographical Distribution of Tweets')
-    fig.update_geos(projection_type="natural earth")
-    fig.write_image('app/static/images/geographical_distribution.png', engine='kaleido')
+    plt.figure(figsize=(10, 5))
+    world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+    base = world.plot(color='white', edgecolor='black')
+    df_geo = gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df.Longitude, df.Latitude))
+    df_geo.plot(ax=base, marker='o', color='red', markersize=5)
+    plt.title('Geographical Distribution of Tweets')
+    plt.savefig('app/static/images/geographical_distribution.png')
+    plt.show()
+    plt.close()
 else:
     print("Longitude and Latitude columns are not available in the dataset.")
+

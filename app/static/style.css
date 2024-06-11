@@ -2,11 +2,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
-h1 {
-    text-align: center;
+.navbar {
+    margin-bottom: 20px;
 }
 
-.data {
-    width: 100%;
-    margin: auto;
+.table {
+    margin-top: 20px;
 }
