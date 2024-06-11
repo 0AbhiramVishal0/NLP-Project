@@ -45,3 +45,25 @@ df['Latitude'], df['Longitude'] = zip(*df['location'].apply(lambda x: geocode_lo
 # Save cleaned data with geocoded locations
 df.to_csv('data/cleaned_australia_tweets.csv', index=False)
 print("Tweets cleaned, geocoded, and saved to 'data/cleaned_australia_tweets.csv'")
+
+import tweepy
+import pandas as pd
+
+# Twitter API credentials
+consumer_key = 'your_consumer_key'
+consumer_secret = 'your_consumer_secret'
+access_token = 'your_access_token'
+access_token_secret = 'your_access_token_secret'
+
+# Authenticate to Twitter
+auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret, access_token, access_token_secret)
+api = tweepy.API(auth)
+
+# Collect tweets
+query = 'emergency OR disaster OR flood OR fire OR cyclone OR earthquake -filter:retweets'
+max_tweets = 1000
+tweets = [status._json for status in tweepy.Cursor(api.search_tweets, q=query, lang='en', tweet_mode='extended').items(max_tweets)]
+
+# Save to DataFrame
+df = pd.DataFrame(tweets)
+df.to_csv('data/collected_tweets.csv', index=False)

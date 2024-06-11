@@ -4,16 +4,25 @@ from transformers import pipeline
 # Load the cleaned dataset
 df = pd.read_csv('data/cleaned_australia_tweets.csv')
 
-# Fake Tweet Detection using a pre-trained model
-fake_tweet_detector = pipeline('text-classification', model='roberta-base-openai-detector')
+# Define emergency-related keywords (for demonstration purposes)
+emergency_keywords = ['flood', 'fire', 'cyclone', 'earthquake', 'storm']
 
-def is_fake_tweet(text):
-    result = fake_tweet_detector(text)[0]
-    label = result['label']
-    score = result['score']
-    return label == 'FAKE', score
+# Use a pre-trained transformer model for text classification
+classifier = pipeline('zero-shot-classification', model='facebook/bart-large-mnli')
 
-df[['Is_Fake', 'Fake_Score']] = df['Cleaned_Tweet'].apply(lambda x: pd.Series(is_fake_tweet(x)))
+# Define candidate labels for classification
+candidate_labels = ['emergency', 'not emergency']
+
+def is_emergency_tweet(text):
+    result = classifier(text, candidate_labels)
+    scores = result['scores']
+    labels = result['labels']
+    if labels[0] == 'emergency':
+        return False, scores[0]  # Not fake
+    else:
+        return True, scores[1]  # Fake
+
+df[['Is_Fake', 'Fake_Score']] = df['Cleaned_Tweet'].apply(lambda x: pd.Series(is_emergency_tweet(x)))
 
 # Separate fake and real tweets
 fake_tweets = df[df['Is_Fake']]
